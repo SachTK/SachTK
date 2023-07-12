@@ -7,7 +7,7 @@
 
 - 💬 Ask me about *cats*
 
-- 📫 How to reach me *https://www.linkedin.com/in/sachini-kandambige-028a9a217/*
+- 📫 How to reach me *https://www.linkedin.com/in/sachini-kandambige/*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
