@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachini</h1>
-<h3 align="center">SLIIT Undergraduate Software Engineering Student</h3>
+<h3 align="center">SLIIT Graduated </h3>
 
 - 🔭 I’m currently working as a  *Frontend Developer Intern*
 
