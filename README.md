@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sachini</h1>
 <h3 align="center">SLIIT Graduated </h3>
 
-- 🔭 I’m currently working as a  *Frontend Developer Intern*
+- 🔭 I’m currently working as a  *QA Engineer*
 
-- 🌱 I’m currently learning *NEXT js 14*
+- 🌱 I’m currently learning *Rest Assured API Testing*
 
 - 💬 Ask me about *cats*
 
